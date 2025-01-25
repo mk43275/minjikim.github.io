@@ -1,6 +1,6 @@
 # My GitHub Pages Website
 Welcome to my personal website hosted on GitHub Pages!  
-This site is live at [https://mk43275.github.io](https://mk43275.github.io).
+This site is live at [https://mk43275.github.io/website/](https://mk43275.github.io/website/).
 
 ## About
 This is a simple static website created using HTML, CSS, and JavaScript.
